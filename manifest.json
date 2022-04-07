@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "ImgOps Image Search",
-    "description": "Upload image quickly to ImgOps, to Imagesearch on Tineye, Google, Bing, Reddit, Yandex and other services.",
+    "description": "Upload image quickly to ImgOps, to imagesearch on Tineye, Google, Bing, Reddit, Yandex and other services.",
     "version": "1.0",
     "minumum_chrome_version": "22",
     "icons": {
