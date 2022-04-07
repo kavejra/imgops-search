@@ -5,7 +5,7 @@
     "version": "1.0",
     "minumum_chrome_version": "22",
     "icons": {
-        "16": "assets/images/16.png"
+        "16": "assets/images/icon16.png"
     },
     "permissions": [
         "contextMenus"
